@@ -48,9 +48,11 @@ Aplicación nativa construida con tecnologías modernas para el seguimiento del 
 
 #### Capturas de pantalla
 
-
-![timing](./sources/img/image.png)
-![movil](./sources/img/captura_movil.jpeg)  
+<p align="center">
+  <img src="./sources/img/image.png" alt="Plataforma Web - Live Timing" width="580" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./sources/img/captura_movil.jpeg" alt="App Android - UMTC Calendar" width="200" />
+</p>
 
 
 
@@ -110,5 +112,5 @@ La planificación se ha gestionado mediante **Jira**, organizando el trabajo en 
 
 ### 8. Documentación de Código (Compodoc)
 Toda la lógica de Angular y servicios está documentada siguiendo estándares profesionales.
-*   **Servidor Compodoc:** [URL del Compodoc en funcionamiento].
+*   **Servidor Compodoc:** [Compodoc](https://universal-motorsport-timing-ap1n.vercel.app/)
 
