@@ -72,11 +72,11 @@ Aplicación nativa construida con tecnologías modernas para el seguimiento del 
 | Módulo | Profesor/a | Aportación en Universal Motorsport |
 | :--- | :--- | :--- |
 | **Acceso a datos** | Juan Antonio García Gómez | Persistencia local en Android mediante **Room Database** y gestión de perfiles con **Cloudinary** para avatares. |
-| **Programación multimedia...** | David Hormigo Ramírez | Implementación de **CameraX** y **MediaStore** en Android, y sistema de reproducción de **Team Radios** en la web. |
-| **Programación de servicios...** | David Hormigo Ramírez | Consumo de APIs REST con **Retrofit** y gestión de flujos reactivos con **StateFlow**. Descompresión binaria en tiempo real (Pako). |
+| **Programación multimedia y dispositivos móviles** | David Hormigo Ramírez | Implementación de **CameraX** y **MediaStore** en Android, y sistema de reproducción de **Team Radios** en la web. |
+| **Programación de servicios y procesos** | David Hormigo Ramírez | Consumo de APIs REST con **Retrofit** y gestión de flujos reactivos con **StateFlow**. Descompresión binaria en tiempo real (Pako). |
 | **Desarrollo de interfaces** | Carmen Campos Fernández | UI declarativa con **Jetpack Compose** y **Material Design 3**. Uso de **OnPush** en Angular para alto rendimiento (60 FPS). |
 | **Servidores y APIs** | Juan Antonio García Gómez | Creación del **Broker de Telemetría** en Node.js para negociar con servidores SignalR y eludir restricciones de CORS. |
-| **Sistemas de gestión...** | Miguel Ángel Ronda Carracao | Sincronización de calendarios oficiales de la temporada 2026 y gestión de cronogramas de sesiones. |
+| **Sistemas de gestión empresarial.** | Miguel Ángel Ronda Carracao | Sincronización de calendarios oficiales de la temporada 2026 y gestión de cronogramas de sesiones. |
 
 ---
 
@@ -100,7 +100,7 @@ Aplicación nativa construida con tecnologías modernas para el seguimiento del 
 
 ### 6. Documentación e Infraestructura
 *   **Arquitectura:** Sigue principios de **Clean Architecture** y **MVVM** en la parte móvil (UI, Domain, Data layers).
-*   **PDF Unificado:** [Enlace a merged.pdf] que agrupa toda la explicación técnica y diagramas.
+*   **PDF Unificado:** [Enlace ](./sources/docs/merged.pdf) 
 
 ---
 
