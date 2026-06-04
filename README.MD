@@ -163,6 +163,7 @@ flowchart TD
 ### 6. Documentación e Infraestructura
 *   **Arquitectura:** Sigue principios de **Clean Architecture** y **MVVM** en la parte móvil (UI, Domain, Data layers).
 *   **PDF Unificado:** [Enlace ](./sources/docs/merged.pdf)
+*   **Presentación**: [Enlace](https://canva.link/80ep9o41dcvc4cz)
 *   **Diagrama de casos de uso**
 ```mermaid
 
