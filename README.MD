@@ -125,12 +125,13 @@ flowchart TD
 
 | Módulo | Profesor/a | Aportación en Universal Motorsport |
 | :--- | :--- | :--- |
-| **Acceso a datos** | Juan Antonio García Gómez | Persistencia local en Android mediante **Room Database** y gestión de perfiles con **Cloudinary** para avatares. |
-| **Programación multimedia y dispositivos móviles** | David Hormigo Ramírez | Implementación de **CameraX** y **MediaStore** en Android, y sistema de reproducción de **Team Radios** en la web. |
-| **Programación de servicios y procesos** | David Hormigo Ramírez | Consumo de APIs REST con **Retrofit** y gestión de flujos reactivos con **StateFlow**. Descompresión binaria en tiempo real (Pako). |
-| **Desarrollo de interfaces** | Carmen Campos Fernández | UI declarativa con **Jetpack Compose** y **Material Design 3**. Uso de **OnPush** en Angular para alto rendimiento (60 FPS). |
+| **Acceso a datos** | Juan Antonio García Gómez | Consumo de APIs REST con **Retrofit** y gestión de flujos reactivos con **StateFlow**. Descompresión binaria en tiempo real (Pako). |
+| **Programación multimedia y dispositivos móviles** | David Hormigo Ramírez | Creación de una aplicacion android del calendario de f1 |
+| **Programación de servicios y procesos** | David Hormigo Ramírez | Creación de una base de datos con NeonDB para almacenar los usuarios |
+| **Desarrollo de interfaces** | Carmen Campos Fernández | UI declarativa con **Jetpack Compose** y **Material Design 3** en móvil. En web, interfaz reactiva a 60 FPS con **Angular 17**, **Signals**, **Syncfusion EJ2**, **Chart.js** y **OnPush** (ver detalle abajo). |
 | **Servidores y APIs** | Juan Antonio García Gómez | Creación del **Broker de Telemetría** en Node.js para negociar con servidores SignalR y eludir restricciones de CORS. |
-| **Sistemas de gestión empresarial.** | Miguel Ángel Ronda Carracao | Sincronización de calendarios oficiales de la temporada 2026 y gestión de cronogramas de sesiones. |
+| **Sistemas de gestión empresarial.** | Miguel Ángel Ronda Carracao | Elaboración de un dashboard web de estadísticas de usuario y el desarrollo de su API correspondiente con FastAPI y Pandas. |
+| **Inglés profesional** |José Emilio Sánchez García| Traducción completa de toda la interfaz de usuario, textos y contenidos tanto en la plataforma web como en la aplicación móvil para soporte internacional. |
 
 ---
 
