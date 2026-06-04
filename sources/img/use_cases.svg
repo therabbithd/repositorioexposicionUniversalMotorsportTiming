@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2189.5699999999997 1156.25" width="2189.5699999999997" height="1156.25" style="--bg:#1a1b26;--fg:#a9b1d6;--line:#3d59a1;--accent:#7aa2f7;--muted:#565f89;background:var(--bg)">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'Inter', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 30%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="4.8" refX="8" refY="2.4" orient="auto">
+    <polygon points="0 0, 8 2.4, 0 4.8" fill="var(--_arrow)" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="4.8" refX="0" refY="2.4" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.4, 8 4.8" fill="var(--_arrow)" />
+  </marker>
+</defs>
+<rect x="40" y="860.25" width="898.26" height="256" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="40" y="860.25" width="898.26" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="52" y="874.25" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Actores Principales</text>
+<rect x="1787.3199999999997" y="80.25" width="362.2499999999998" height="776" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="1787.3199999999997" y="80.25" width="362.2499999999998" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="1799.3199999999997" y="94.25" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Sistemas Externos</text>
+<rect x="490.2099999999999" y="40" width="1177.11" height="836.25" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="490.2099999999999" y="40" width="1177.11" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="502.2099999999999" y="54" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Universal Motorsport Timing</text>
+<rect x="510.2099999999999" y="460.25" width="1137.11" height="236" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="510.2099999999999" y="460.25" width="1137.11" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="522.2099999999999" y="474.25" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Módulo de Perfil y Autenticación</text>
+<rect x="510.2099999999999" y="76" width="1137.11" height="300.25" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="510.2099999999999" y="76" width="1137.11" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="522.2099999999999" y="90" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Dashboard de F1 en Tiempo Real</text>
+<rect x="1160.62" y="680.25" width="486.70000000000005" height="176" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="1160.62" y="680.25" width="486.70000000000005" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="1172.62" y="694.25" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Calendario y Clima</text>
+<rect x="1160.62" y="360.25" width="486.70000000000005" height="116" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+<rect x="1160.62" y="360.25" width="486.70000000000005" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+<text x="1172.62" y="374.25" dy="0.35em" font-size="12" font-weight="600" fill="var(--_text-sec)">Ajustes Generales</text>
+<polyline points="276.45000000000005,962 296.45000000000005,962 296.45000000000005,1016.25 569.535,1016.25" fill="none" stroke="var(--_line)" stroke-width="0.75" stroke-dasharray="4 4" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,1036.25 958.26,1036.25 958.26,536.25 1323.62,536.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,1056.25 958.26,1056.25 958.26,596.25 1330.7699999999998,596.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,1076.25 958.26,1076.25 958.26,756.25 1291.4449999999997,756.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,1096.25 958.26,1096.25 958.26,816.25 1191.3449999999998,816.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,936.25 958.26,936.25 958.26,142 1403.9699999999998,142 1403.9699999999998,138.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,956.25 958.26,956.25 958.26,216.25 1198.495,216.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,976.25 958.26,976.25 958.26,276.25 1194.9199999999998,276.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 918.26,1016.25 918.26,996.25 958.26,996.25 958.26,336.25 1180.62,336.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="858.9350000000001,1016.25 958.26,1016.25 958.26,436.25 1295.0199999999998,436.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="276.45000000000005,962 296.45000000000005,962 296.45000000000005,926.25 714.235,926.25 714.235,584.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="276.45000000000005,962 296.45000000000005,962 296.45000000000005,946.25 714.235,946.25 714.235,674.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="898.26,656.25 1291.4449999999997,656.25" fill="none" stroke="var(--_line)" stroke-width="0.75" stroke-dasharray="4 4" marker-end="url(#arrowhead)" />
+<polyline points="880.385,172 1403.9699999999998,172 1403.9699999999998,174.25" fill="none" stroke="var(--_line)" stroke-width="0.75" stroke-dasharray="4 4" marker-end="url(#arrowhead)" />
+<polyline points="1516.495,656.25 1834.4699999999998,656.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="1623.745,156.25 1968.445,156.25 1968.445,218.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="1609.4449999999997,216.25 1968.445,216.25 1968.445,218.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="1613.0199999999998,276.25 1968.445,276.25 1968.445,254.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="1627.3199999999997,336.25 1968.445,336.25 1968.445,254.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<polyline points="1616.5949999999998,816.25 1838.0449999999998,816.25" fill="none" stroke="var(--_line)" stroke-width="0.75" marker-end="url(#arrowhead)" />
+<rect x="372.45000000000005" y="1002.75" width="61.760000000000005" height="27" rx="4" ry="4" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="0.5" />
+<text x="403.33000000000004" y="1016.25" text-anchor="middle" dy="0.35em" font-size="11" font-weight="400" fill="var(--_text-muted)">Herencia</text>
+<rect x="994.2600000000001" y="642.75" width="90.36" height="27" rx="4" ry="4" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="0.5" />
+<text x="1039.44" y="656.25" text-anchor="middle" dy="0.35em" font-size="11" font-weight="400" fill="var(--_text-muted)">&quot;&lt;&lt;include&gt;&gt;&quot;</text>
+<rect x="997.12" y="158.5" width="84.64" height="27" rx="4" ry="4" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="0.5" />
+<text x="1039.44" y="172" text-anchor="middle" dy="0.35em" font-size="11" font-weight="400" fill="var(--_text-muted)">&quot;&lt;&lt;extend&gt;&gt;&quot;</text>
+<rect x="569.535" y="998.25" width="289.40000000000003" height="36" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="80.00000000000001" y="944" width="196.45000000000002" height="36" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1827.32" y="218.25" width="282.25" height="36" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1834.4699999999998" y="638.25" width="267.95000000000005" height="36" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1838.0449999999998" y="798.25" width="260.8" height="36" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1323.62" y="518.25" width="160.70000000000002" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1330.7699999999998" y="578.25" width="146.4" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="616.01" y="548.25" width="196.45000000000002" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="530.21" y="638.25" width="368.05" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1291.4449999999997" y="638.25" width="225.05" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1184.1949999999997" y="138.25" width="439.55" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1198.495" y="198.25" width="410.95000000000005" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1194.9199999999998" y="258.25" width="418.1" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1180.62" y="318.25" width="446.70000000000005" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="548.085" y="154" width="332.3" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1291.4449999999997" y="738.25" width="225.05" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1191.3449999999998" y="798.25" width="425.25000000000006" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<rect x="1295.0199999999998" y="418.25" width="217.9" height="36" rx="18" ry="18" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+<text x="714.235" y="1016.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;👤 Usuario General&lt;br&gt;(Aficionado)&quot;</text>
+<text x="178.22500000000002" y="962" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;👥 Usuario Registrado&quot;</text>
+<text x="1968.445" y="236.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;🔌 WebSocket Proxy&lt;br&gt;(Stream F1)&quot;</text>
+<text x="1968.4449999999997" y="656.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;☁️ API Cloudinary&lt;br&gt;(Avatares)&quot;</text>
+<text x="1968.445" y="816.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;🌤️ API Clima&lt;br&gt;(Previsiones)&quot;</text>
+<text x="1403.9699999999998" y="536.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Registrar Cuenta&quot;</text>
+<text x="1403.9699999999998" y="596.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Iniciar Sesión&quot;</text>
+<text x="714.235" y="566.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Ver Perfil de Usuario&quot;</text>
+<text x="714.235" y="656.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Configurar Perfil&lt;br&gt;(Bio, Favoritos, Avatar)&quot;</text>
+<text x="1403.9699999999998" y="656.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Recortar Imagen de Perfil&quot;</text>
+<text x="1403.9699999999998" y="156.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Ver Tabla de Tiempos&lt;br&gt;(Diferencias, Stints, Posición)&quot;</text>
+<text x="1403.9699999999998" y="216.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Visualizar Mapa de Circuito&lt;br&gt;(Posiciones en vivo)&quot;</text>
+<text x="1403.9699999999998" y="276.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Escuchar Radios de Equipos y&lt;br&gt;leer transcripciones&quot;</text>
+<text x="1403.9699999999998" y="336.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Monitorear Banderas de Pista y&lt;br&gt;Avisos de Race Control&quot;</text>
+<text x="714.235" y="172" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Destacar Piloto Favorito&lt;br&gt;(Automático)&quot;</text>
+<text x="1403.9699999999998" y="756.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Consultar Calendario 2026&quot;</text>
+<text x="1403.9699999999998" y="816.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Ver Detalles de Carrera&lt;br&gt;(Trazado, Horarios, Clima)&quot;</text>
+<text x="1403.9699999999998" y="436.25" text-anchor="middle" dy="0.35em" font-size="13" font-weight="500" fill="var(--_text)">&quot;Cambiar Idioma de la App&quot;</text>
+</svg>
